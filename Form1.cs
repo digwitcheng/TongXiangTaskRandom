@@ -44,7 +44,7 @@ namespace AGV_TASK
             //ImsNetManager.Instance.Init();
             ////启动发送消息和记录日志线程
             //ImsNetManager.Instance.ThreadStart();
-
+            //
             
             ConnectToServer();
             MapLoad();
